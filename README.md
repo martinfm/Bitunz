@@ -3,6 +3,7 @@
 Bitunz is a VST/AU plug-in 8-bit crusher where you can mute or invert each bit with a separate control. 
 It also sports separate controls for dry and wet mix and downsampling, which downgrades the resolution up to 64 samples 
 
+VST is a trademark of Steinberg Media Technologies GmbH
 
 ## Installation
 
